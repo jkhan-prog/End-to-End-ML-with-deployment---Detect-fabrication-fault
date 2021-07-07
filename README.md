@@ -1,9 +1,9 @@
 # Detect-fabrication-fault-in-Semiconductor-Wafers
 Summary:
-End to end ML project with Deployment. Data pipleline is creted with data ingestion, data preprocessing, Model training and Model prediction
+End to end ML project with Deployment. Data pipleline is created with data ingestion, data preprocessing, Model training and Model prediction
 
 Problem Statement:
-Based on mutiple sensor readings during a Semiconductor wafer manufcaturing process, predict if a wafer can be calssified as good or bad
+Based on mutiple sensor readings during a Semiconductor wafer manufacturing process, predict if a wafer can be calssified as good or bad
 
 Solution(with approach):
 1. New data is first validated againgst existing schema(regex pattern for name, number/name/datatype of column, null vlaues)
